@@ -52,12 +52,14 @@ Runs continuously until stopped.
 ---
 
 ## 📁 Project Structure
+
+```text
 project_folder/
-│
-├── esp32_cam_basic.ino # ESP32-CAM firmware
-├── smile_pic_esp32cam.py # Python smile detection script
+├── esp32_cam_basic.ino
+├── smile_pic_esp32cam.py
 ├── haarcascade_frontalface_default.xml
-├── haarcascade_profileface.xml
+└── haarcascade_profileface.xml
+```
 
 ---
 
