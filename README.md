@@ -211,6 +211,9 @@ smile_detected.jpg
 * Run Python script
 * Smile in front of camera
 ---
+
+<img width="494" height="602" alt="Screenshot 2025-04-09 020528" src="https://github.com/user-attachments/assets/7b4495b5-ff4f-405f-825e-af0f832cd053" />
+
 ### Troubleshooting
 
 | Issue                         | Solution                   |
